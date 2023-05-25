@@ -1,0 +1,37 @@
+.container {
+  width: 550px;
+  margin: 0 auto;
+}
+
+.hero {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  /* padding-top: 10px; */
+  background-color: #6943FF;
+  height: 270px;
+  text-align: center;
+}
+
+h1 {
+  color: #fff;
+  margin: 0;
+}
+
+#input-el {
+  width: 110px;
+  height: 80px;
+  border-radius: 5px;
+  padding: 0;
+  border: 2px solid gray;
+  background-color: #6943FF;
+}
+
+#convert-btn {
+  width: 110px;
+  height: 40px;
+  border-radius: 5px;
+  /* margin-top: 5px; */
+  border: none;
+}
