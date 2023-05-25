@@ -8,7 +8,6 @@
   flex-direction: column;
   justify-content: space-evenly;
   align-items: center;
-  /* padding-top: 10px; */
   background-color: #6943FF;
   height: 270px;
   text-align: center;
@@ -42,7 +41,6 @@ h1 {
 }
 
 .conversion{
-  /* width: 100%; */
   padding: 15px 20px;
   background-color: #F4F4F4;
   
@@ -50,6 +48,11 @@ h1 {
 
 h4 {
   margin-bottom: 0;
+  color: #5A537B;
+}
+
+p {
+  color: #353535;
 }
 
 .length,
