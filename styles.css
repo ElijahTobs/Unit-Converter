@@ -1,5 +1,5 @@
 .container {
-  width: 550px;
+  width: 450px;
   margin: 0 auto;
 }
 
@@ -9,7 +9,7 @@
   justify-content: space-evenly;
   align-items: center;
   background-color: #6943FF;
-  height: 270px;
+  height: 200px;
   text-align: center;
 }
 
@@ -19,21 +19,21 @@ h1 {
 }
 
 #input-el {
-  width: 110px;
-  height: 80px;
+  width: 80px;
+  height: 55px;
   border-radius: 5px;
   padding: 0;
   border: 2px solid #B295FF;
   background-color: #6943FF;
   color: #fff;
-  font-size: 40px;
+  font-size: 30px;
   text-align: center;
   font-weight: 700;
 }
 
 #convert-btn {
-  width: 110px;
-  height: 40px;
+  width: 80px;
+  height: 30px;
   border-radius: 5px;
   border: none;
   color: #3D3D3D;
@@ -48,6 +48,7 @@ h1 {
 
 h4 {
   margin-bottom: 0;
+  margin-top: 15px;
   color: #5A537B;
 }
 
@@ -59,7 +60,7 @@ p {
 .volume,
 .mass {
   height: 100px;
-  margin-top: 15px;
+  margin-top: 8px;
   background-color: #fff;
   display: flex;
   flex-direction: column;
