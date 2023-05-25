@@ -38,11 +38,18 @@ h1 {
   border-radius: 5px;
   border: none;
   color: #3D3D3D;
+  cursor: pointer;
 }
 
 .conversion{
+  /* width: 100%; */
   padding: 15px 20px;
   background-color: #F4F4F4;
+  
+}
+
+h4 {
+  margin-bottom: 0;
 }
 
 .length,
@@ -51,4 +58,8 @@ h1 {
   height: 100px;
   margin-top: 15px;
   background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
 }
